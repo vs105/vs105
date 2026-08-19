@@ -36,7 +36,7 @@
 This repository contains my **Official Personal Portfolio Website**, built as an interactive, digital CV showcasing my projects, technical experience, certifications, and leadership roles.
 
 ### 🌐 Live Demo & Highlights
-- **🌐 Website URL:** [https://vs105.github.io/Portfolio](https://vs105.github.io/Portfolio) *(or view locally by opening `index.html`)*
+- **🌐 Website URL:** [https://vs105.github.io/My-Portfolio](https://vs105.github.io/My-Portfolio/) *(or view locally by opening `index.html`)*
 - **🎨 Design System:** Dark Canvas (`#0B0F19`), Structural Navy (`#1E293B`), Cyan Accent (`#06B6D4`) with `Inter` typography.
 - **✨ Features:** Smooth scroll navigation, scroll-triggered reveal animations, 3D card flips, dynamic progress bars, animated counters, interactive contact form, and mobile responsive layout.
 
